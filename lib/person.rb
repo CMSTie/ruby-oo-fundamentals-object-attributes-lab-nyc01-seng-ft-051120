@@ -5,11 +5,11 @@ class Person
   end
   
   def name
-    @name
+    @person_name
   end
   
-  def name=(name)
-    @name=name
+  def name=(new_name)
+    @person_namen=new_name
   end
   
   end
